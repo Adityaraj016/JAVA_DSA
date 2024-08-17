@@ -1,0 +1,4 @@
+1.Run the outer for loop for the number of rows in pattern
+2.In inner for loop,identify for each row ,how many columns are there
+Identify the types element present in rows
+3.What do you need to print
